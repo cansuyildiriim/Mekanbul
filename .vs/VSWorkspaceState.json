@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_server",
+    "\\app_server\\controllers",
+    "\\app_server\\views",
+    "\\bin",
+    "\\public",
+    "\\public\\bootstrap",
+    "\\public\\images",
+    "\\public\\javascripts"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
