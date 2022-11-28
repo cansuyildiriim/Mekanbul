@@ -12,7 +12,7 @@ https://mekanbul5.yildirimcansu.repl.co/api/mekanlar/637a58c96bc6eced283ab396
 ### 3. Bir Mekana Ait Belirli Bir Yorumu Getir
 
 https://mekanbul5.yildirimcansu.repl.co/api/mekanlar/637a58c96bc6eced283ab396/yorumlar/637a58d154bc48f5fdc8b746
-![3](/images/yorumlar.PNG)
+![3](/images/yorumlar.png)
 
 # MekanBul REST API Testleri
 ### Thunder API
