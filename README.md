@@ -16,7 +16,7 @@ https://mekanbul5.yildirimcansu.repl.co/api/mekanlar/637a58c96bc6eced283ab396/yo
 
 # MekanBul REST API Testleri
 ### Thunder API
-![1](/images/thunderAPI.png)
+![1](/images/thunderAPI.PNG)
 
 ### test.js
-![1](/images/test.png)
+![1](/images/test.PNG)
