@@ -1,3 +1,5 @@
+[Yakındaki Mekanları Listele - Replit Linki](https://mekanbul.yildirimcansu.repl.co/?enlem=37.8&boylam=30.5)
+![1](/images/mekan.png)
 # MekanBul REST API
 
 ### 1. Girilen Konum Civarındaki Mekanları Listele
@@ -13,3 +15,10 @@ https://mekanbul5.yildirimcansu.repl.co/api/mekanlar/637a58c96bc6eced283ab396
 
 https://mekanbul5.yildirimcansu.repl.co/api/mekanlar/637a58c96bc6eced283ab396/yorumlar/637a58d154bc48f5fdc8b746
 ![3](/images/yorumlar.png)
+
+# MekanBul REST API Testleri
+### Thunder API
+![1](/images/thunderAPI.png)
+
+### test.js
+![1](/images/test.png)
