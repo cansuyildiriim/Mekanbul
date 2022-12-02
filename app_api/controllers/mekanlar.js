@@ -6,7 +6,7 @@ const cevapOlustur = (res, status, content) => {
 };
 
 var cevrimler = (() => {
-  var dunyaYariCap = 6371; //km
+  var dunyaYariCap = 6371; 
   var radyan2Kilometre = (radyan) => {
     return parseFloat(radyan * dunyaYariCap);
   };
@@ -116,7 +116,7 @@ const mekanGuncelle = (req, res) => {
   if (!req.params.mekanid) {
     cevapOlustur(res, 404, { mesaj: "Bulunamadı, mekanid gerekli" });
     return;
-  } // - işareti yorumlar ve puan dışında her şeyi almamızı söyler
+  } 
   Mekan.findById(req.params.mekanid)
     .select("-yorumlar -puan")
     .exec((hata, gelenMekan) => {

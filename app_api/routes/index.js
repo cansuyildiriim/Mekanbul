@@ -24,4 +24,4 @@ router
 .put(ctrlYorumlar.yorumGuncelle)
 .delete(ctrlYorumlar.yorumSil);
 
-module.exports=router; //routeri dış dünyaya açıyoruz
+module.exports=router; 
