@@ -44,7 +44,7 @@ block content
       .panel.panel-primary 
         .panel-heading
           -var mekanid=mekanDetay._id
-          a.btn.btn-default.pull-right(href='/mekan/'+mekanid+'/yorum/yeni') Yorum Ekle 
+          a.btn.btn-default.pull-right(href='/mekan/' + mekanid + '/yorum/yeni') Yorum Ekle 
           h2.panel-title Müşteri Yorumları
         .panel-body.review-container
           each yorum in mekanDetay.yorumlar  
@@ -58,3 +58,4 @@ block content
                   +tarihFormatla(yorum.tarih)
                 .col-xs-12 
                   p= yorum.yorumMetni
+                
